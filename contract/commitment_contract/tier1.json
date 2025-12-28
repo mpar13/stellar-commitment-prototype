@@ -1,0 +1,8 @@
+{
+  "lock_secs": { "u64": 60 },
+  "payout_early": { "i128": "10" },
+  "payout_mature": { "i128": "50" },
+  "payout_now": { "i128": "5" }
+}
+
+
